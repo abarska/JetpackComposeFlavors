@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SecondFlavor</string>
+    <string name="tab_1_title">Tab First</string>
+    <string name="tab_2_title">Tab Second</string>
+    <string name="tab_3_title">Tab Third</string>
+    <string name="frag_1_title">Fragment First</string>
+    <string name="frag_2_title">Fragment Second</string>
+    <string name="frag_3_title">Fragment Third</string>
+    <string name="frag_1_content_description">Fragment First content description</string>
+    <string name="frag_2_content_description">Fragment Second content description</string>
+    <string name="frag_3_content_description">Fragment Third content description</string>
+</resources>
